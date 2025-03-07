@@ -5,9 +5,13 @@ NChat a simple messaging app built with flutter and data stored in firebase
 
 ## Screenshots
 
-| Splash Screen | Welcome Screen | Home Screen | Chat Screen |
-|--------------|---------|-------------|-------------|
-| ![Splash Screen](screenshots/0.png) | ![Welcome Screen](screenshots/1.png) | ![Home Screen](screenshots/2.png) | ![Chat Screen](screenshots/3.png) |
+| Splash Screen | Welcome Screen |
+|--------------|---------|
+| ![Splash Screen](screenshots/0.png) | ![Welcome Screen](screenshots/1.png) |
+
+| Home Screen | Chat Screen |
+|-------------|-------------|
+| ![Home Screen](screenshots/2.png) | ![Chat Screen](screenshots/3.png) |
 
 ## Features of NChat
 * User authentication (Login with phonenumber)
